@@ -44,7 +44,8 @@
    总结：我不会就这样放弃的~
 
 - 9月，正式上线《Place It!!》，TapTap上开始有一点点小水花，从这个游戏开始，我1个人孤军奋战了
-   ![输入图片说明](https://raw.githubusercontent.com/pingzi1066/DeveloperDiaries/master/20191220/pi1.png "主页")![输入图片说明](https://raw.githubusercontent.com/pingzi1066/DeveloperDiaries/master/20191220/pi2.png "游戏")
+
+![输入图片说明](https://raw.githubusercontent.com/pingzi1066/DeveloperDiaries/master/20191220/pi1.png "主页")![输入图片说明](https://raw.githubusercontent.com/pingzi1066/DeveloperDiaries/master/20191220/pi2.png "游戏")
     
    分工：我包全部。
    
@@ -54,7 +55,7 @@
    
    总结：要找专业的人，去做专业的事，坚持，别放弃，整理心情，下一位！
 
--11月，正式上线《四季之春》（只有春场景的Demo），TapTap的反响出乎意料！第1天就双双登顶新品与热玩的前10！
+- 11月，正式上线《四季之春》（只有春场景的Demo），TapTap的反响出乎意料！第1天就双双登顶新品与热玩的前10！
    ![输入图片说明](https://raw.githubusercontent.com/pingzi1066/DeveloperDiaries/master/20191220/sj1.png "Large")
    ![siji](https://raw.githubusercontent.com/pingzi1066/DeveloperDiaries/master/20191220/sj2.png "GamePlay")
     
@@ -64,7 +65,7 @@
    
    后续：游戏引起了不小的波动，开始接触一些商务，在Tap的大力支持下，我们重启了此游戏的开发计划。
     
--12月：《二哈下楼记》已经通过审核，准备上线，准备找代理！
+- 12月：《二哈下楼记》已经通过审核，准备上线，准备找代理！
    ![输入图片说明](https://raw.githubusercontent.com/pingzi1066/DeveloperDiaries/master/20191220/e1.png "进入")![输入图片说明](https://raw.githubusercontent.com/pingzi1066/DeveloperDiaries/master/20191220/e2.png "游戏中")
 
    所有游戏可以在这里找到：https://www.taptap.com/developer/71670
