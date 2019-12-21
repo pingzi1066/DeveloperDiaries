@@ -38,15 +38,20 @@
    ![snake explorer](https://raw.githubusercontent.com/pingzi1066/DeveloperDiaries/master/20191220/se02.png "game play")
     
    程序、美术、音效音乐、设计上还是花了一些心思。可惜操作上没优化好
+   
    收益：0。
+   
    总结：我不会就这样放弃的~
 
    - 9月，正式上线《Place It!!》，TapTap上开始有一点点小水花，这个游戏我是1个人做（我老婆已经离线）
    ![输入图片说明](https://raw.githubusercontent.com/pingzi1066/DeveloperDiaries/master/20191220/pi1.png "主页")![输入图片说明](https://raw.githubusercontent.com/pingzi1066/DeveloperDiaries/master/20191220/pi2.png "游戏")
     
    分工：我包全部。
+   
    收益：<100$
+   
    后续：经过朋友的推荐，现在找到了海外代理！
+   
    总结：要找专业的人，去做专业的事，坚持，别放弃，整理心情，下一位！
 
    -11月，正式上线《四季之春》（只有春场景的Demo），TapTap的反响出乎意料！第1天就双双登顶新品与热玩的前10！
@@ -54,7 +59,9 @@
    ![siji](https://raw.githubusercontent.com/pingzi1066/DeveloperDiaries/master/20191220/sj2.png "GamePlay")
     
    值得一说的是：这一款是18年初创业的时候的一款作品，3美术1程序的组合。
+   
    收益：0，本想接广告，又想有点坑，就算了，如果按现在的量算广告，1天估计10$完全没问题
+   
    后续：游戏引起了不小的波动，开始接触一些商务，在Tap的大力支持下，我们重启了此游戏的开发计划。
     
    -12月：《二哈下楼记》已经通过审核，准备上线，准备找代理！
