@@ -28,7 +28,7 @@
 
    其中第3条：18年年底我接了一外包，钱收了一半，后面游戏没有上线，也就没有后续了，在此期间我也看了很多外包相关的网站，再三寻思之后觉得应当放弃这一条路。
     
-   第2条：1月份我上线了 ExcelParser [ExcelParser](http://https://assetstore.unity.com/packages/templates/systems/excelparser-136712)，截止目前10份左右了；第2款是LocalData，我个人觉得这个插件的成本和价值都和第1款相当甚至更好，可惜0购买，也许没有做好描述，可能是少了一个演示视频。
+   第2条：1月份我上线了 [ExcelParser](http://https://assetstore.unity.com/packages/templates/systems/excelparser-136712)，截止目前10份左右了；第2款是LocalData，我个人觉得这个插件的成本和价值都和第1款相当甚至更好，可惜0购买，也许没有做好描述，可能是少了一个演示视频。
     
    最后第1条：本来网站一天也就几十人看，所以接入广告之后，截止目前0.01$的收入来源。
 
